@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import Temp from "./temp";
 
 const App = () => {
   return (
-    <div>
-      <h1>Hello Ji</h1>
-    </div>
-  )
-}
+    <>
+      <Temp />
+    </>
+  );
+};
 
-export default App
+export default App;
