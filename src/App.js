@@ -1,12 +1,12 @@
-import React from 'react'
-import Temp from './temp'
+import React from "react";
+import Temp from "./temp";
 
 const App = () => {
   return (
     <>
       <Temp />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
